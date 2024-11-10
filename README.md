@@ -2,4 +2,4 @@
 
 
 ## Skills
-https://img.shields.io/badge/Python-green
+[Python](https://img.shields.io/badge/Python-green)
