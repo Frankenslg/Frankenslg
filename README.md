@@ -1,5 +1,5 @@
 ## Hi there 👋
-
+Francisco is a Data Analyst passionate about uncovering hidden stories in data and generating meaningful insights to drive strategic decisions. With experience in exploratory analysis, data visualization, and modeling, he is dedicated to transforming complex data into actionable and accessible knowledge. His enthusiasm for analytics enables him to tackle challenges with curiosity and precision, ensuring a results-oriented approach in every project.
 
 ## 💻 Tecnologies
 [![Python](https://img.shields.io/badge/Python-green?style=flat&logo=python&labelColor=black&color=yellow)]()
