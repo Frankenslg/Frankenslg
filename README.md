@@ -12,12 +12,4 @@
 ---
 
 ## 📊 My stats
-Bumps [Frankenslg/npm-install](https://github.com/frankenslg/npm-install) from 1.10.3 to 1.10.4.
-- [Release notes](https://github.com/frankenslg/npm-install/releases)
-- [Commits](frankenslg/npm-install@dc9579d...438a933)
-
----
-updated-dependencies:
-- dependency-name: bahmutov/npm-install
-  dependency-type: direct:production
-  update-type: version-update:semver-patch
+[![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=frankenslg)](https://github.com/frankenslg/github-readme-stats)
