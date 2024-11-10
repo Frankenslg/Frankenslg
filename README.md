@@ -12,4 +12,12 @@
 ---
 
 ## 📊 My stats
-<img align="center" width="600" alt="Data" src="general.svg">
+Bumps [Frankenslg/npm-install](https://github.com/frankenslg/npm-install) from 1.10.3 to 1.10.4.
+- [Release notes](https://github.com/frankenslg/npm-install/releases)
+- [Commits](frankenslg/npm-install@dc9579d...438a933)
+
+---
+updated-dependencies:
+- dependency-name: bahmutov/npm-install
+  dependency-type: direct:production
+  update-type: version-update:semver-patch
