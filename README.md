@@ -13,3 +13,4 @@
 
 ## 📊 My stats
 [![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=frankenslg)](https://github.com/frankenslg/github-readme-stats)
+![Francisco's GitHub stats](https://github-readme-stats.vercel.app/api?username=frankenslga&show_icons=true)
